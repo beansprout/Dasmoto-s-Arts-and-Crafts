@@ -1,16 +1,31 @@
+body {
+  font-family: Helvetica;
+}
+
 h1 {
   background-image: url(pattern.jpeg);
   font-size: 100px;
   color: khaki;
-  font-family: Helvetica;
   text-align: center;
 }
 
 h2 {
-  font-family: Helvetica, sans-serif;
   color: white;
 }
 
 .green {
   background-color: mediumspringgreen;
+}
+
+.coral {
+  background-color: coral;
+}
+
+.sky {
+  background-color: skyblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
 }
